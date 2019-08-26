@@ -13,7 +13,7 @@ abbr {
 }
 
 p {
-    color: #333;
+    color: $text-color;
     line-height: 1.5;
 }
 
@@ -29,7 +29,7 @@ sup {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 100;
+    font-weight: 400;
 }
 
 div.equation {
