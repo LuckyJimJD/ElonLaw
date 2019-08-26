@@ -1,0 +1,60 @@
+
+
+#bg {
+  position: fixed; 
+  top: 50px; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.profile-block {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: 25%;
+    left: 0;
+    text-align: center;
+}
+
+.profile h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: white;
+    margin: 0px 0 0.5rem 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.profile h2 {
+    font-size: 1.5rem;
+    color: white;
+    line-height: 2;
+    font-weight: 700;
+    margin: 0 0 0 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.profile h3 {
+    font-size: 1.5rem;
+    color: white;
+    line-height: 1.2;
+    font-weight: 700;
+    margin: 0 0 2rem 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.profile h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: white;
+    line-height: 2;
+    margin: 0 0 0rem 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.social {
+    border-top: 0px solid $grey-color-light;
+    margin-top: 50px;
+    padding-top: 0px;
+}
