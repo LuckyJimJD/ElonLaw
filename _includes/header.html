@@ -3,10 +3,10 @@
   <div class="wrapper">
 
     {% if page.layout != "about" %}
-    <span class="site-title">
+    <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
-    </span>
+        <strong>{{ name | first }} {{ name | last }}</strong> 
+    </span></a>
     {% endif %}
 
     <nav class="site-nav">
@@ -23,7 +23,7 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><b>Home</b></a>
+        <!-- <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><b>Home</b></a> -->
 
         <!-- Blog -->
         <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
