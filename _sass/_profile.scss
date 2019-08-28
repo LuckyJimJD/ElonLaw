@@ -13,7 +13,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: 15%;
+    top: 25%;
     left: 0;
     text-align: center;
 }
@@ -75,7 +75,6 @@
 .list-inline {
     padding-left: 0;
     list-style: none;
-    font-size: 32px;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
@@ -83,6 +82,7 @@
     display: inline-block;
     padding-left: 8px;
     padding-right: 8px;
+    font-size: 2rem;
 }
 
 .list-inline-item {
@@ -157,7 +157,6 @@ and (min-device-width:576px){
     .list-inline {
         padding-left: 0;
         list-style: none;
-        font-size: 32px;
         text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
     }
     
@@ -165,5 +164,6 @@ and (min-device-width:576px){
         display: inline-block;
         padding-left: 10px;
         padding-right: 10px;
+        font-size: 2rem;
     }
 }
