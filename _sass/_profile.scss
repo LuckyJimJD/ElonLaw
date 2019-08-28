@@ -167,3 +167,14 @@ and (min-device-width:576px){
         font-size: 2rem;
     }
 }
+
+
+@media only screen and (max-device-width:576px) and (orientation: portrait) {
+    #bg {
+        position: fixed; 
+        top: 50px; 
+        left: -650px; 
+        width: auto;
+        min-height: 100%;
+    }
+}
