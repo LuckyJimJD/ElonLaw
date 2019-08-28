@@ -1,31 +1,35 @@
 #bg {
-  position: fixed; 
-  top: 50px; 
-  left: 0; 
-  min-width: 100%;
-  min-height: 100%;
+    position: fixed; 
+    top: 50px; 
+    left: 0; 
+    min-width: 100%;
+    min-height: 100%;
 }
+
+/* For mobile phones: */
 
 .profile-block {
     position: absolute;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    top: 25%;
+    top: 15%;
     left: 0;
     text-align: center;
 }
 
 .profile h1 {
-    font-size: 3rem;
+    font-size: 2rem;
+    line-height: 1;
     font-weight: 700;
     color: white;
-    margin: 0px 0 0.5rem 0;
+    margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
 
 .profile h2 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
     color: white;
     line-height: 2;
     font-weight: 700;
@@ -34,7 +38,8 @@
 }
 
 .profile h3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    line-heightt: 1.5;
     color: white;
     line-height: 1.5;
     font-weight: 700;
@@ -47,7 +52,7 @@
 }
 
 .profile h4 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
     color: white;
     line-height: 1.5;
@@ -61,23 +66,104 @@
 
 .social {
     border-top: 0px solid $grey-color-light;
-    margin-top: 50px;
-    padding-top: 0px;
+    margin-top: 3rem;
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 2.5;
 }
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    font-size: 32px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.list-inline>li {
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.list-inline-item {
+    display: inline-block;
+}
+
 
 @media only screen
-and (max-device-width:576px){
+and (min-device-width:576px){
+    .profile-block {
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        top: 33%;
+        left: 0;
+        text-align: center;
+    }
+
     .profile h1 {
-        font-size: 2rem;
+        font-size: 3rem;
+        font-weight: 700;
+        color: white;
+        margin: 0px 0 0.5rem 0;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
     }
+
     .profile h2 {
-        font-size: 1.5rem;
+        font-size: 2.5rem;
+        color: white;
+        line-height: 2;
+        font-weight: 700;
+        margin: 0 0 0 0;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
     }
+
     .profile h3 {
-        font-size: 1.2rem;
+        font-size: 1.5rem;
+        color: white;
+        line-height: 1.5;
+        font-weight: 700;
+        margin: 2rem 0 0rem 0;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
     }
+
+    .profile h3 + h3 {
+        margin-top: 0rem;
+    }
+
     .profile h4 {
-        font-size: 1rem;
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: white;
+        line-height: 1.5;
+        margin: 0 0 0 0;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+    }
+
+    .profile h3 + h4 {
+        margin-top: 1rem;
+    }
+
+    .social {
+        border-top: 0px solid $grey-color-light;
+        margin-top: 100px;
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        line-height: 1;
+    }
+
+    .list-inline {
+        padding-left: 0;
+        list-style: none;
+        font-size: 32px;
+        text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+    }
+    
+    .list-inline>li {
+        display: inline-block;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
-
