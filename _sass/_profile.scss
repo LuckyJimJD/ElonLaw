@@ -179,6 +179,17 @@ and (min-device-width:576px){
     }
 }
 
+
+@media only screen and (orientation: portrait)  and (min-device-width:576px) {
+    #bg {
+        position: fixed; 
+        top: 50px; 
+        left: -650px; 
+        width: auto;
+        min-height: 100%;
+    }
+}
+
 @media only screen and (orientation: landscape) and (min-device-width:567px) and (max-device-width:900px) {
     #bg {
         position: fixed; 
