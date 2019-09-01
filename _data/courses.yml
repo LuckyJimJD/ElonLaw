@@ -5,25 +5,20 @@
 
 - title: Civil Procedure
   url: CivilProcedure
-  img: CivPro.png
   thumbnail: CivilProcedure.png
 
 - title: Consumer Protection
   url: ConsumerProtection
-  img: ConsumerLaw.png
-  thumbnail: ConsumerLaw.png
+  thumbnail: ConsumerProtection.png
 
 - title: Employment Law
   url: EmploymentLaw
-  img: EmploymentLaw.png
   thumbnail: EmploymentLaw.png
 
 - title: Labor Law
   url: LaborLaw
-  img: LaborLaw.png
   thumbnail: LaborLaw.png
 
 - title: Professional Responsibility
   url: ProfessionalResponsibility
-  img: PR.png
   thumbnail: ProfessionalResponsibility.png
