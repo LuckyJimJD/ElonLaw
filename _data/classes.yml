@@ -1,24 +1,23 @@
 - title: Cause Lawyering
   url: CauseLawyering
-  img: PR.image
-  thumbnail: CauseLawyering.png
+  img: CauseLawyering.png
 
 - title: Civil Procedure
   url: CivilProcedure
-  thumbnail: CivilProcedure.png
+  img: CivilProcedure.png
 
 - title: Consumer Protection
   url: ConsumerProtection
-  thumbnail: ConsumerProtection.png
+  img: ConsumerProtection.png
 
 - title: Employment Law
   url: EmploymentLaw
-  thumbnail: EmploymentLaw.png
+  img: EmploymentLaw.png
 
 - title: Labor Law
   url: LaborLaw
-  thumbnail: LaborLaw.png
+  img: LaborLaw.png
 
 - title: Professional Responsibility
   url: ProfessionalResponsibility
-  thumbnail: ProfessionalResponsibility.png
+  img: ProfessionalResponsibility.png
