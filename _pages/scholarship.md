@@ -14,10 +14,6 @@ title: Scholarship
 <!-- Work in Progress -->
 # Work in Progress
 
-## Subhead 
-
-### Subsubhead
-
 {% for project in site.data.projects %}
 <a href="{{ project.osf }}">{{ project.title }}</a>
 {% endfor %}
