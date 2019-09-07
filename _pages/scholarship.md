@@ -7,7 +7,7 @@ title: Scholarship
 # Recent Publications
 
 {% for publication in site.data.publications %}
-<a href="https://luckyjimjd.github.io/assets/publications/{{ publication.pdf }}" target="_blank">{{ publication.title }}</a>, {{ publication.volume }} {{ publication.journal }} {{ publication.page }} ({{ publication.date }}) 
+<a href="{{ site.baseurl }}/assets/publications/{{ publication.pdf }}" target="_blank">{{ publication.title }}</a>, {{ publication.volume }} {{ publication.journal }} {{ publication.page }} ({{ publication.date }}) 
 {% endfor %}
 
 
