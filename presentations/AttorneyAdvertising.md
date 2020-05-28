@@ -2,6 +2,7 @@
 title: Attorney Advertising 
 author: Eric M. Fink
 course: Professional Responsibility
+institution: Elon Law School 
 date: Fall 2020
 output: 
   custom_document:
@@ -20,33 +21,39 @@ output:
 
 ## Not Guilty
 
-![Larry Archie](../../assets/img/presentations/LarryArchie.png)
+![](../assets/img/presentations/LarryArchie.png)
 
 *** 
 
 ## Better Call Pete
 
-![Need a Good Lawyer](../../assets/img/presentations/BetterCallPete1.png)
-
-![The Thug Lawyer](../../assets/img/presentations/BetterCallPete2.png)
+![](../assets/img/presentations/BetterCallPete1.png) 
 
 *** 
 
-## Life is Short
+## Better Call Pete (Episode 2)
 
-![Get a Divorce](../../assets/img/presentations/LifeIsShort1.jpg)
+![](../assets/img/presentations/BetterCallPete2.png)
 
-*** 
-
-## Cupid
-
-![Maribel Verdaguer](../../assets/img/presentations/Cupid.jpg)
 
 *** 
 
-## Suprise!
+## Better Call Pete (Finale)
 
-![Belgian Lawyer](../../assets/img/presentations/Surprise.jpg)
+[Case dismissed!](https://www.theadvocate.com/baton_rouge/news/article_fba13d7e-aaab-5b73-be43-e64b1fd0eaf7.html)
+
+*** 
+
+## Life's Short
+
+![](../assets/img/presentations/LifeIsShort1.jpg)
+
+
+*** 
+
+## Corri Courts Controversy
+
+[Look at This Ad, but Don’t Get Any Ideas](https://www.nytimes.com/2007/05/13/weekinreview/13johnson.html)
 
 *** 
 
@@ -54,9 +61,19 @@ output:
 
 *** 
 
-## Divorce EZ
+## Tell Us How You Really Feel 
 
 <iframe width="623" height="468" src="https://www.youtube.com/embed/y1Qk6QPzuIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*** 
+
+## Divorce EZ … or Not
+
+[Divorce Lawyer's Commercial Goes Viral](https://www.sun-sentinel.com/news/fl-xpm-2010-09-24-fl-lawyer-viral-video-20100923-story.html)
+
+[Divorce EZ](http://divorceez.com/p/home)
+
+[Steven D. Miller](https://www.floridadivorceme.com/)
 
 *** 
 
@@ -66,15 +83,9 @@ output:
 
 *** 
 
-## Good Advice?
+## Hire Me, I Think Like a Criminal 
 
-<iframe width="623" height="468" src="https://www.youtube.com/embed/nQZRA7wft1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*** 
-
-## What’s in a Name?
-
-<iframe width="623" height="468" src="https://www.youtube.com/embed/LqOJo65unGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[ABA Journal](https://www.abajournal.com/news/article/hire_me_i_think_like_a_criminal_pittsburgh_lawyer_says_in_youtube_video)
 
 *** 
 
@@ -84,6 +95,6 @@ output:
 
 *** 
 
-# The End 
+# Want to See More? 
 
-[More lawyer ads for your viewing pleasure ](https://www.youtube.com/playlist?list=PL4W8SVyGbcG_xn1HetCtP8IPYRatiMT53)
+[Lawyer Advertising on YouTube](https://www.youtube.com/playlist?list=PL4W8SVyGbcG_xn1HetCtP8IPYRatiMT53)
