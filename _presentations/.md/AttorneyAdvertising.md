@@ -20,33 +20,33 @@ output:
 
 ## Not Guilty
 
-![Larry Archie](../assets/img/LarryArchie.png)
+![Larry Archie](../../assets/img/presentations/LarryArchie.png)
 
 *** 
 
 ## Better Call Pete
 
-![Need a Good Lawyer](../assets/img/BetterCallPete1.png)
+![Need a Good Lawyer](../../assets/img/presentations/BetterCallPete1.png)
 
-![The Thug Lawyer](../assets/img/BetterCallPete2.png)
+![The Thug Lawyer](../../assets/img/presentations/BetterCallPete2.png)
 
 *** 
 
 ## Life is Short
 
-![Get a Divorce](../assets/img/LifeIsShort1.jpg)
+![Get a Divorce](../../assets/img/presentations/LifeIsShort1.jpg)
 
 *** 
 
 ## Cupid
 
-![Maribel Verdaguer](../assets/img/Cupid.jpg)
+![Maribel Verdaguer](../../assets/img/presentations/Cupid.jpg)
 
 *** 
 
 ## Suprise!
 
-![Belgian Lawyer](../assets/img/Surprise.jpg)
+![Belgian Lawyer](../../assets/img/presentations/Surprise.jpg)
 
 *** 
 
