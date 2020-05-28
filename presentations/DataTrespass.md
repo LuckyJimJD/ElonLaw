@@ -1,6 +1,7 @@
 ---
 title: Data Trespass in NC
 author: Eric M. Fink
+institution: Elon Law School 
 date: 5 March 2020
 output: 
   custom_document:
@@ -85,7 +86,6 @@ By secretly recording business operations to expose unsanitary and deceptive pra
 > [A]lthough our state courts recognize the existence of an employee's duty of loyalty, we do not recognize its breach as an independent claim. Evidence of such a breach serves only as a justification for a defendant-employer in a wrongful termination action by an employee.
 
 _Dalton v. Camp_, 353 N.C. 647 (2001) 
-
 
 *** 
 

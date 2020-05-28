@@ -1,6 +1,7 @@
 ---
 title: Attorney Fee Awards in NC
 author: Eric M. Fink
+institution: Elon Law School 
 date: 5 March 2020
 
 output: 
