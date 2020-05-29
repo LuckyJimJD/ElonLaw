@@ -1,5 +1,5 @@
 - title: fa fa-envelope
-  url: 'mailto:emfink@gmail.com'
+  url: 'mailto:efink@elon.edu'
   label: Email
 
 - title: fa fa-calendar
@@ -7,7 +7,7 @@
   label: Appointment
 
 - title: ai ai-cv
-  url: https://www.emfink.net/cv
+  url: https://www.emfink.net/ElonLaw/vita/
   label: CV
 
 - title: fab fa-github

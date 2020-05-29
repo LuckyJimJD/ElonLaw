@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: vita
+permalink: /vita/
 title: CV
 
 author: Eric M. Fink
@@ -25,30 +25,25 @@ output:
 - Tenure awarded 2012
 - Jennings Professor and Emerging Scholar, 2010-2012
 
-### Teaching: 2019-20
+### Teaching: 2020-21
 
-- [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2019)
-- [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2019)
-- [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2020)
-- [Labor Law](https://www.emfink.net/LaborLaw/) (Winter 2020)
+- [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2020)
+- [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2020)
+- [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2021)
+- [Employment Law](https://www.emfink.net/LaborLaw/) (Winter 2021)
 
 ### Other Courses Taught
 
 - Administrative Law
 - Business Associations
 - [Cause Lawyering](https://www.emfink.net/CauseLawyering/)
-- [Employment Law](https://www.emfink.net/EmploymentLaw/)
+- [Labor Law](https://www.emfink.net/LaborLaw/)
 - Socio-Legal Perspectives
-
 
 ### Law School Service
 
 - Curriculum Committee
 - Elon Law Review, Faculty Co-Advisor
-
-### University Service
-
-- Poverty & Social Justice program steering committee
 
 # Publications
 
@@ -280,4 +275,3 @@ Contributing Editor, *The Developing Labor Law* (P. Hardin, ed., 4th ed. 2001)
 _State_: California (Active), Pennsylvania (Retired Status)
 
 _Federal_: Third Circuit U.S. Court of Appeals, Eastern District of Pennsylvania, Middle District of Pennsylvania
-
