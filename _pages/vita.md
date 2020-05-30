@@ -1,7 +1,7 @@
 ---
 layout: vita
 permalink: /vita/
-title: CV
+title: Vita
 
 author: Eric M. Fink
 affiliation: Elon University School of Law
