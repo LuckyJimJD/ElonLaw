@@ -1,9 +1,13 @@
 ---
+date: 2020-06-09T13:00:00
+
 title: Attorney Advertising 
 author: Eric M. Fink
 course: Professional Responsibility
 institution: Elon Law School 
-date: Fall 2020
+
+slug: AttorneyAdvertising
+
 output: 
   custom_document:
     path: AttorneyAdvertising.revealjs.html

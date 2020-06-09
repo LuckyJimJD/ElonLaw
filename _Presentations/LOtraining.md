@@ -1,4 +1,6 @@
 ---
+date: 2020-06-09T13:00:00
+
 title: Legal Observer Training  
 author: National Lawyers Guild 
 institution: Elon Law School 
