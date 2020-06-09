@@ -4,6 +4,6 @@ permalink: /revealjs
 title: Presentations
 ---
 
-{% for presentation in site.presentations %}
-<p><a href="{{ site.url }}{{ presentation.url }}" target="_blank">{{ presentation.title }}</a></p>
+{% for Presentation in site.Presentations %}
+<p><a href="{{ site.url }}{{ Presentation.url }}" target="_blank">{{ Presentation.title }}</a></p>
 {% endfor %}
