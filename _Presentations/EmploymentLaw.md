@@ -5,7 +5,7 @@ title: Employment Law
 author: Eric M. Fink
 course: Intro to Law 
 institution: Elon University 
-date: 25 March 2020
+presented: 25 March 2020
 
 slug: EmploymentLaw 
 
