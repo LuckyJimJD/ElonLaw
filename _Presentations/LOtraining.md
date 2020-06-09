@@ -9,7 +9,7 @@ slug: LOtraining
 
 output: 
   custom_document:
-    path: LOtraining.revealjs.html
+    path: LOtraining.html
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: emf-moon
     incremental: true
