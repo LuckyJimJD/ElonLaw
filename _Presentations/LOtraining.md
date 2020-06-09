@@ -3,9 +3,11 @@ title: Legal Observer Training
 author: National Lawyers Guild 
 institution: Elon Law School 
 
+slug: LOtraining
+
 output: 
   custom_document:
-    path: ../LOtraining.revealjs.html
+    path: LOtraining.revealjs.html
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: emf-moon
     incremental: true

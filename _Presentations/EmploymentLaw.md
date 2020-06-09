@@ -4,6 +4,9 @@ author: Eric M. Fink
 course: Intro to Law 
 institution: Elon University 
 date: 25 March 2020
+
+slug: EmploymentLaw 
+
 output: 
   custom_document:
     path: EmploymentLaw.revealjs.html

@@ -19,7 +19,7 @@ phone: 336-279-9334
 collections:
   Presentations:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

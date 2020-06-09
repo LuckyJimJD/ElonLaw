@@ -4,6 +4,8 @@ author: Eric M. Fink
 institution: Elon Law School 
 date: 5 March 2020
 
+slug: FeeAwards
+
 output: 
   custom_document:
     path: FeeAwards.revealjs.html
