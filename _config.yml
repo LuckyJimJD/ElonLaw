@@ -15,7 +15,6 @@ zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
 
-
 collections:
   Presentations:
     output: true
