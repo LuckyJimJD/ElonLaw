@@ -25,19 +25,19 @@ output:
 - Tenure awarded 2012
 - Jennings Professor and Emerging Scholar, 2010-2012
 
-##### Teaching: 2019-20
+##### Teaching: 2020-21
 
-- [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2019)
-- [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2019)
-- [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2020)
-- [Residency-in-Practice](https://www.emfink.net/Residency/) (Spring & Summer 2020)
+- [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2020)
+- [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2020)
+- [Employment Law](https://www.emfink.net/EmploymentLaw/) (Winter 2021)
+- [Residency-in-Practice](https://www.emfink.net/Residency/) (Spring 2021)
 
 ##### Other Courses Taught
 
 - Administrative Law
 - Business Associations
 - [Cause Lawyering](https://www.emfink.net/CauseLawyering/)
-- [Employment Law](https://www.emfink.net/EmploymentLaw/)
+- [Consumer Protection](https://www.emfink.net/ConsumerProtection/)
 - [Labor Law](https://www.emfink.net/LaborLaw/)
 - Socio-Legal Perspectives
 
