@@ -43,7 +43,7 @@ output:
 
 ##### Service
 
-- Curriculum Committee
+- Admissions Committee
 - Elon Law Review, Faculty Co-Advisor
 
 # Publications
