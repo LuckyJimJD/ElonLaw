@@ -1,11 +1,12 @@
----
-url: https://www.emfink.net # the base hostname & protocol for your site
-baseurl: /ElonLaw # the subpath of your site, e.g. /blog/
-title: Eric M. Fink
+url: https://www.emfink.net
+baseurl: /akademicky
+title: Akademický
 description:  # leave blank if you don't want to display a description 
-last_updated: 23 August 2020 # leave blank if you don't want to display last updated
-
 name: Eric M. Fink
+
+last_updated: 29 August 2020 # leave blank if you don't want to display last updated
+
+author: Eric M. Fink
 position: Associate Professor
 institution: Elon Law School
 street: 201 North Greene Street
@@ -15,27 +16,58 @@ zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
 
-collections:
-  Presentations:
+collections: 
+  cases: 
+    output: true 
+  exams:
     output: true
-    permalink: /:collection/:title
+  notes: 
+    output: true 
+  outlines:
+    output: true
+  problems:
+    output: true 
+  questions:
+    output: true
+  readings: 
+    output: true 
+  statutes: 
+    output: true 
+  visuals:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
 # Build settings
+
+# deployment
+host: localhost
+port: 4000
+
+
 markdown: kramdown
-remote_theme: luckyjimjd/lj-folio
-
-# Includes & excludes
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: [vendor]
-
-# Plug-ins
-plugins:
-    - jekyll-paginate
-    - jemoji
+exclude: ['Gemfile.lock']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: atom
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/LuckyJimJD.github.com/
 
 # -----------------------------------------------------------------------------
 # Other settings

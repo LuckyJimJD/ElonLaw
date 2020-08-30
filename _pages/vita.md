@@ -2,6 +2,7 @@
 layout: vita
 permalink: /vita/
 title: Vita
+pdf: "_pages/vita.pdf"
 
 author: Eric M. Fink
 affiliation: Elon University School of Law
@@ -215,12 +216,6 @@ Contributing Editor, _The Developing Labor Law_ (P. Hardin, ed., 4th ed. 2001)
 
 - Labor and employment law
 
-### The Weinstein Firm, Philadelphia, PA
-
-#### Of Counsel, 2004-2006 
-
-- Employment law compliance and workplace diversity counseling
-
 ### Eckert Seamans Cherin and Mellott, Philadelphia, PA
 
 #### Associate, 2002-2004 
@@ -240,9 +235,7 @@ Contributing Editor, _The Developing Labor Law_ (P. Hardin, ed., 4th ed. 2001)
 #### J.D., magna cum laude, 1997 
 
 - Arthur Garfield Hays Civil Liberties Fellow
-
 - Journal of International Law and Politics, Symposium Editor
-
 - Order of the Coif
 
 ### University of Chicago, Chicago, IL
