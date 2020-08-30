@@ -16,6 +16,7 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: vita.tex
+    path: /assets/pdf/vita.pdf
   
 ---
 
