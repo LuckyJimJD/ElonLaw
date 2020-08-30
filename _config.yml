@@ -1,6 +1,6 @@
 url: https://www.emfink.net
-baseurl: /akademicky
-title: Akademický
+baseurl: /ElonLaw
+title: Eric M. Fink
 description:  # leave blank if you don't want to display a description 
 name: Eric M. Fink
 
@@ -16,26 +16,6 @@ zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
 
-collections: 
-  cases: 
-    output: true 
-  exams:
-    output: true
-  notes: 
-    output: true 
-  outlines:
-    output: true
-  problems:
-    output: true 
-  questions:
-    output: true
-  readings: 
-    output: true 
-  statutes: 
-    output: true 
-  visuals:
-    output: true
-
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -45,7 +25,6 @@ collections:
 # deployment
 host: localhost
 port: 4000
-
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
