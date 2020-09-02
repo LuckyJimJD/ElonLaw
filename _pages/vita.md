@@ -2,7 +2,7 @@
 layout: vita
 permalink: /vita/
 title: Vita
-pdf: "assets/pdf/vita.pdf"
+pdf: "_pages/vita.pdf"
 
 author: Eric M. Fink
 affiliation: Elon University School of Law
@@ -16,7 +16,6 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: vita.tex
-    path: /assets/pdf/vita.pdf
   
 ---
 
