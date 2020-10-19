@@ -4,13 +4,7 @@ permalink: /vita/
 title: Vita
 pdf: "_pages/vita.pdf"
 
-author: Eric M. Fink
-affiliation: Elon University School of Law
-email: efink@elon.edu
-phone: 336-279-9334
-address1: 201 North Greene Street
-address2: Greensboro, North Carolina 27401
-web: emfink.net/ElonLaw
+
 
 output: 
   pdf_document:
@@ -30,6 +24,7 @@ output:
 
 - [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2020)
 - [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2020)
+- [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2021)
 - [Employment Law](https://www.emfink.net/EmploymentLaw/) (Winter 2021)
 - [Residency-in-Practice](https://www.emfink.net/Residency/) (Spring 2021)
 
@@ -38,7 +33,6 @@ output:
 - Administrative Law
 - Business Associations
 - [Cause Lawyering](https://www.emfink.net/CauseLawyering/)
-- [Consumer Protection](https://www.emfink.net/ConsumerProtection/)
 - [Labor Law](https://www.emfink.net/LaborLaw/)
 - Socio-Legal Perspectives
 
