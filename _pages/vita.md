@@ -45,27 +45,27 @@ output:
 
 ##### Journal Articles
 
-["Just When I Thought I was Out …": Post-Employment Repayment Obligations](https://www.emfink.net/assets/publications/Post-Employment_Repayment_Obligations.pdf), with Stuart Lichten, 25 _Washington & Lee Journal of Civil Rights & Social Justice_ 51 (2018)
+["Just When I Thought I was Out …": Post-Employment Repayment Obligations](https://www.emfink.net/assets/pdf/Fink2018.pdf), with Stuart Lichten, 25 _Washington & Lee Journal of Civil Rights & Social Justice_ 51 (2018)
 
-[Union Organizing & Collective Bargaining for Incarcerated Workers](https://www.emfink.net/assets/publications/Unions_for_Incarcerated_Workers.pdf), 52 _Idaho Law Review_ 953 (2016)
+[Union Organizing & Collective Bargaining for Incarcerated Workers](https://www.emfink.net/assets/pdf/Fink2016.pdf), 52 _Idaho Law Review_ 953 (2016)
 
-[Sewer Syndicalism: Worker Control in Public Services](https://www.emfink.net/assets/publications/Sewer_Syndicalism.pdf), 14 _Nevada Law Journal_ 444 (2014)
+[Sewer Syndicalism: Worker Control in Public Services](https://www.emfink.net/assets/pdf/Fink2014.pdf), 14 _Nevada Law Journal_ 444 (2014)
 
-[No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical](https://www.emfink.net/assets/publications/Unpaid_Law_Firm_Internships.pdf), 47 _University of San Francisco Law Review_ 435 (2013)
+[No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical](https://www.emfink.net/assets/pdf/Fink2013.pdf), 47 _University of San Francisco Law Review_ 435 (2013)
 
-[The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life](https://www.emfink.net/assets/publications/Law_in_Second_Life.pdf), 21 _Journal of Law, Information, and Science_ 89 (2011)
+[The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life](https://www.emfink.net/assets/pdf/Fink2011.pdf), 21 _Journal of Law, Information, and Science_ 89 (2011)
 
-[Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students](https://www.emfink.net/assets/publications/Law_Students_&_Facebook.pdf), 27 _John Marshall Journal of Computer and Information Law_ 325 (2010)
+[Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students](https://www.emfink.net/assets/pdf/Fink2010.pdf), 27 _John Marshall Journal of Computer and Information Law_ 325 (2010)
 
-[Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases](https://www.emfink.net/assets/publications/Adverse_Credibility_in_Immigration_Court.pdf), 83 _Notre Dame Law Review_ 2019 (2008); reprinted in 29 _Immigration and Nationality Law Review_ 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
+[Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases](https://www.emfink.net/assets/pdf/Fink2008.pdf), 83 _Notre Dame Law Review_ 2019 (2008); reprinted in 29 _Immigration and Nationality Law Review_ 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
 
-[Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics](https://www.emfink.net/assets/publications/Diffusion_of_Law_&_Econ.pdf), 55 _Hastings Law Journal_ 931 (2004)
+[Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics](https://www.emfink.net/assets/pdf/Fink2004.pdf), 55 _Hastings Law Journal_ 931 (2004)
 
 Book Note, The Caribbean: New Dynamics in Trade and Political Economy, 28 _NYU Journal of International Law and Politics_ 644 (1996)
 
 ##### Chapters, Reports, & Other Publications
 
-[Federal Student Loan Servicing: Contract Problems and Public Solutions](https://www.emfink.net/assets/publications/Student_Loan_Servicing.pdf), with Roland Zullo, Jobs With Justice Education Fund (2014)
+[Federal Student Loan Servicing: Contract Problems and Public Solutions](https://www.emfink.net/assets/pdf/Fink2014a.pdf), with Roland Zullo, Jobs With Justice Education Fund (2014)
 
 Union and Employee Access to Employer E-mail Systems Under Federal Labor Law, with Stuart W. Davidson, in _The CyberUnion Handbook: Transforming Labor Through Computer Technology_ (A. Shostak, ed., 2002)
 
